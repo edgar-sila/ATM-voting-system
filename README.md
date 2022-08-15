@@ -1,0 +1,2 @@
+# ATM-voting-system
+In this system a voter is to apply for a voters card in which ,he or she will use to cast a vote with instead of ballot papers. The voter will have to insert the voters card into the ATM and it will display the contestant vying for different seats from the MCA to the PRESIDENT a voter will only be allowed to chose one person therefore solving the problem of discarded votes. It will also not accept the same card initials to prevent voters malpractice.  
